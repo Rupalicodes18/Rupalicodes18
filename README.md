@@ -1,7 +1,7 @@
 # 🌌 Welcome to My Matrix
 
 <h3 align="left">
-  <font color="#F4C2C2" face="Brush Script MT, Comic Sans MS, cursive"><b>Python Developer | Logic & Architecture | Future AI-Medical Researcher</b></font>
+  <font color="#FFD1DC" face="Brush Script MT, Comic Sans MS, cursive"><b>Python Developer | Logic & Architecture | Future AI-Medical Researcher</b></font>
 </h3>
 
 ---
