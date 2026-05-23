@@ -1,8 +1,8 @@
 # 🌌 Welcome to My Matrix
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FFB6C1&center=false&vCenter=false&width=450&lines=Python+Developer;Logic+%26+Architecture;Future+AI-Medical+Researcher" alt="Typing SVG" />
-</p>
+<h3 align="left">
+  <font color="#FFB6C1" face="Brush Script MT, Comic Sans MS, cursive"><b>Python Developer | Logic & Architecture | Future AI-Medical Researcher</b></font>
+</h3>
 
 ---
 
