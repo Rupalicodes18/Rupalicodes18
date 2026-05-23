@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8C_WELCOME_TO_MY_MATRIX-98FB98?style=for-the-badge&labelColor=121212&color=121212" alt="Main Title" height="80" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8C_WELCOME_TO_MY_MATRIX-98FB98?style=for-the-badge&labelColor=121212&color=121212" alt="Main Title" height="150" />
 </p>
 
 <p align="center">
