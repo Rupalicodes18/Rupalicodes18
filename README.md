@@ -25,7 +25,7 @@
 #### Financial Engineering Logs
 * 💸 [Tax Slab Modifier](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Tax_slab_modifier.py)
   > A configuration module simulating direct taxation shifts across custom economic bands.
-*  [Finance Stress Tester](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Finance-Stress-Tester.py)
+* [Finance Stress Tester](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Finance-Stress-Tester.py)
   > An algorithmic risk simulator evaluating capital sustainability during market deficits.
 
 ####  Security & Psychological Systems
