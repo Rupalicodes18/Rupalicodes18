@@ -9,7 +9,7 @@
 
 ---
 
-###  About Me
+<img src="https://img.shields.io/badge/👁️_About_Me-FFB6C1?style=flat-square&logoColor=black" alt="About Me" />
 * 🎓 **Academic Profile:** Pre-University Science Scholar focusing on advanced mathematics and structural sciences.
 * 🧠 **Core Philosophy:** Designing modular, optimized algorithms and diving deep into data persistence mechanisms.
 * 🧪 **Future Vision:** Engineering highly efficient software models to drive foundational research at the intersection of Artificial Intelligence and Finance.
