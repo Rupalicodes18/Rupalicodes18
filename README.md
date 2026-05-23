@@ -1,8 +1,8 @@
 # 🌌 Welcome to My Matrix
 
-<h3 align="left">
-  <font color="#FFD1DC" face="Brush Script MT, Comic Sans MS, cursive"><b>Python Developer | Logic & Architecture | Future AI-Medical Researcher</b></font>
-</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=20&duration=1&pause=0&color=FFB6C1&center=false&vCenter=false&width=500&lines=Python+Developer+%7C+Logic+%26+Architecture;Future+AI-Medical+Researcher" alt="Aesthetic Title" />
+</p>
 
 ---
 
