@@ -1,12 +1,12 @@
 # 🌌 Welcome to My Matrix
 
 <h3 align="left">
-  <font color="#FFB6C1" face="Brush Script MT, Comic Sans MS, cursive"><b>Python Developer | Logic & Architecture | Future AI-Medical Researcher</b></font>
+  <font color="#pink" face="Brush Script MT, Comic Sans MS, cursive"><b>Python Developer | Logic & Architecture | Future AI-Medical Researcher</b></font>
 </h3>
 
 ---
 
-### 👁️ About Me
+###  About Me
 * 🎓 **Academic Profile:** Pre-University Science Scholar focusing on advanced mathematics and structural sciences.
 * 🧠 **Core Philosophy:** Designing modular, optimized algorithms and diving deep into data persistence mechanisms.
 * 🧪 **Future Vision:** Engineering highly efficient software models to drive foundational research at the intersection of Artificial Intelligence and Finance.
