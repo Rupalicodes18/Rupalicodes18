@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=1&pause=0&color=98FB98&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+MATRIX" alt="Main Title" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8C_WELCOME_TO_MY_MATRIX-98FB98?style=for-the-badge&labelColor=121212&color=121212" alt="Main Title" height="45" />
 </p>
 
 <p align="center">
