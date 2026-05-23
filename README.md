@@ -20,19 +20,19 @@
 ### 🚀 Pinned Mainframe Projects
 
 ####  Core Sciences & Mathematics
-* ⚛️ [Nuclear Decay Forecaster](https://github.com/Rupalicodes18/Science-core-logic/blob/main/Nuclear-Decay-Forcaster.py)
+* [Nuclear Decay Forecaster](https://github.com/Rupalicodes18/Science-core-logic/blob/main/Nuclear-Decay-Forcaster.py)
   > A dynamic mathematical simulator predicting half-life decays and nuclear state stability metrics.
-* 📐 [Quadratic Equation Solver](https://github.com/Rupalicodes18/Python-SQL-learning-/blob/main/Quadratic_Solver.py)
+* [Quadratic Equation Solver](https://github.com/Rupalicodes18/Python-SQL-learning-/blob/main/Quadratic_Solver.py)
   > An algebraic compute engine for real and complex roots verification.
 
 #### Financial Engineering Logs
-* 💸 [Tax Slab Modifier](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Tax_slab_modifier.py)
+* [Tax Slab Modifier](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Tax_slab_modifier.py)
   > A configuration module simulating direct taxation shifts across custom economic bands.
 * [Finance Stress Tester](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Finance-Stress-Tester.py)
   > An algorithmic risk simulator evaluating capital sustainability during market deficits.
 
 ####  Security & Psychological Systems
-* 🔒 [Secret Cipher Engine](https://github.com/Rupalicodes18/Python-SQL-learning-/blob/main/Secret-cipher-engine.py)
+* [Secret Cipher Engine](https://github.com/Rupalicodes18/Python-SQL-learning-/blob/main/Secret-cipher-engine.py)
   > A low-level encryption framework executing mathematical alphabetic ASCII shifts.
 * [Project: Lucid Horizon](https://github.com/Rupalicodes18/Python-SQL-learning-/blob/main/Lucid-Horizon.py)
   > A structural, text-based simulation matrix tracking conditional state parameters.
