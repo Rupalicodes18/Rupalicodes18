@@ -1,7 +1,10 @@
-# 🌌 Welcome to My Matrix
+# 🌌 Welcome to My Matrix.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=20&duration=1&pause=0&color=FFB6C1&center=false&vCenter=false&width=500&lines=Python+Developer+%7C+Logic+%26+Architecture;Future+AI-Medical+Researcher" alt="Aesthetic Title" />
+  <img src="https://img.shields.io/badge/Python_Developer_%7C_Logic_%26_Architecture-FFB6C1?style=for-the-badge&logoColor=black" alt="Title 1" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Future_AI--Medical_Researcher-FFB6C1?style=for-the-badge&logoColor=black" alt="Title 2" />
 </p>
 
 ---
