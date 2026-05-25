@@ -11,9 +11,9 @@
 
 <img src="https://img.shields.io/badge/👁️_About_Me-FFB6C1?style=flat-square&logoColor=black" alt="About Me" />
 
-* 🎓 **Academic Profile:** Pre-University Science Scholar focusing on advanced mathematics and structural sciences.
-* 🧠 **Core Philosophy:** Designing modular, optimized algorithms and diving deep into data persistence mechanisms.
-* 🧪 **Future Vision:** Engineering highly efficient software models to drive foundational research at the intersection of Artificial Intelligence and Healthcare technology.
+* **Academic Profile:** Pre-University Science Scholar focusing on advanced mathematics and structural sciences.
+* **Core Philosophy:** Designing modular, optimized algorithms and diving deep into data persistence mechanisms.
+* **Future Vision:** Engineering highly efficient software models to drive foundational research at the intersection of Artificial Intelligence and Healthcare technology.
 
 ---
 
@@ -31,10 +31,11 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🔬_Core_Sciences_%26_Mathematics-FFB6C1?style=flat-square&logoColor=black" alt="Science and Math" />
+<img src="https://img.shields.io/badge/🔬Sciences_Core_%26_Mathematics-FFB6C1?style=flat-square&logoColor=black" alt="Science and Math" />
 
 * ⚛️ [Nuclear Decay Forecaster](https://github.com/Rupalicodes18/Science-core-logic/blob/main/Nuclear-Decay-Forcaster.py)
 * 📐 [Quadratic Equation Solver](https://github.com/Rupalicodes18/Python-SQL-learning-/blob/main/Quadratic_Solver.py)
+* 🧠  [Neural Diagnostic Link Engine](https://github.com/Rupalicodes18/Science-core-logic/blob/409d10ac52e933240c4fa57d51d1e41a95cffa2b/Neural_Link_Sim.py)
 
 <br>
 
