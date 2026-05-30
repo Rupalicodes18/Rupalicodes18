@@ -43,6 +43,8 @@
 
 * 💸 [Tax Slab Modifier](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Tax_slab_modifier.py)
 * 📉 [Finance Stress Tester](https://github.com/Rupalicodes18/Student-Finance-Logic/blob/main/Finance-Stress-Tester.py)
+* 🚨 [Expense Leak Finder]
+(https://github.com/Rupalicodes18/Student-Finance-Logic/blob/4fe4ebf6a2ef6d42f892c886445a018eb8fd5ed2/Expense_Leak_Finder.py)
 
 <br>
 
